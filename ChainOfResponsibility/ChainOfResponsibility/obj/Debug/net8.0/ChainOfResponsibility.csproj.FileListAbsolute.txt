@@ -1,0 +1,14 @@
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.exe
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.deps.json
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.runtimeconfig.json
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.dll
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.pdb
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfo.cs
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.dll
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\refint\ChainOfResponsibility.dll
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.pdb
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.genruntimeconfig.cache
+G:\Three\Csh\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ref\ChainOfResponsibility.dll
